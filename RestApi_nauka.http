@@ -1,0 +1,6 @@
+@RestApi_nauka_HostAddress = http://localhost:5243
+
+GET {{RestApi_nauka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
